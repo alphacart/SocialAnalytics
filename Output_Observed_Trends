@@ -1,0 +1,4 @@
+As on June 24, 2018, observed trends:
+1) CNN and Fox News have the aggregate compound score closest to zero, meaning that their tweets are the most neutral in this dataset.
+2) Both CBS and NY times have positive 'compound sentiment' values on their last 100 tweets. CBS is substantially more positive than NY Times.
+3) According to Vader sentiment analysis CBS has the most positive 'compound sentiment' on 100 tweets. 
