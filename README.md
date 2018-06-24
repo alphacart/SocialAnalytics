@@ -33,7 +33,7 @@ Final Jupyter notebook contains:
 
 As final considerations:
 
-* You must complete your analysis using a Jupyter notebook.
-* You must use the Matplotlib or Pandas plotting libraries.
-* Include a written description of three observable trends based on the data.
-* Include proper labeling of your plots, including plot titles (with date of analysis) and axes labels.
+* Complete analysis based on  Jupyter notebook.
+* Used Matplotlib or Pandas plotting libraries.
+* Included a written description of three observable trends based on the data.
+* Included proper labeling of your plots, including plot titles (with date of analysis) and axes labels.
