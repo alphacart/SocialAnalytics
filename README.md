@@ -31,9 +31,7 @@ Final Jupyter notebook contains:
 * Export the data in the DataFrame into a CSV file.
 * Save PNG images for each plot.
 
-As final considerations:
-
 * Complete analysis based on  Jupyter notebook.
 * Used Matplotlib or Pandas plotting libraries.
-* Included a written description of three observable trends based on the data.
-* Included proper labeling of your plots, including plot titles (with date of analysis) and axes labels.
+* Included a written description of observable trends based on the data.
+* Included proper labeling of plots, including plot titles (with date of analysis) and axes labels.
