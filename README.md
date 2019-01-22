@@ -18,8 +18,11 @@ The first plot will be and/or feature the following:
 * Be a scatter plot of sentiments of the last **100** tweets sent out by each news organization, ranging from -1.0 to 1.0, where a score of 0 expresses a neutral sentiment, -1 the most negative sentiment possible, and +1 the most positive sentiment possible.
 * Each plot point will reflect the _compound_ sentiment of a tweet.
 * Sort each plot point by its relative timestamp.
+![png](https://github.com/alphacart/SocialAnalytics/blob/master/Sentiment_Analysis_Tweets.png)
+
 
 The second plot will be a bar plot visualizing the _overall_ sentiments of the last 100 tweets from each organization. For this plot, you will again aggregate the compound sentiments analyzed by VADER.
+![png](https://github.com/alphacart/SocialAnalytics/blob/master/Overall_Media_Sentiment.png)
 
 The tools of the trade needed for this task include the following: tweepy, pandas, matplotlib, and VADER.
 
